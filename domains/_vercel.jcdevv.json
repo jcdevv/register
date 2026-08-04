@@ -4,8 +4,6 @@
     "email": "juanzitocsp@gmail.com"
   },
   "records": {
-    "A": [
-      "216.198.79.1"
-    ]
+    "TXT": "vc-domain-verify=jcdevv.is-a.dev,92f76e4a0a7d12468efa"
   }
 }
